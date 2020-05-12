@@ -33,8 +33,6 @@ class App extends React.Component {
               }
             }
           );
-
-          console.log(this.state)
         })
       }
       // if User logs out set session to null
